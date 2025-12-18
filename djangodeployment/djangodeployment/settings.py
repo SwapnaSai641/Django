@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-@eev5dy0dv-%_8jpvd+33gy9a9@+5twms^7$uwxqwlas#6c_*b
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["django-briq.onrender.com"]
+ALLOWED_HOSTS = ['django-briq.onrender.com']
 
 
 # Application definition
